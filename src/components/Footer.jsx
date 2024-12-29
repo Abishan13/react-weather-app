@@ -11,7 +11,7 @@ function Footer() {
 
       </div>
       <hr class="my-2 opacity-25 sm:mx-auto lg:my-8" />
-      <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a class="">WeatheReact</a>. All Rights Reserved.
+      <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023© <a class="">WeatheReact</a>. All Rights Reserved.
       </span>
     </footer>
 
