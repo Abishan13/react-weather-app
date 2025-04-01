@@ -6,9 +6,9 @@
 
 ## 📸 Demo
 
-👉 [Live Demo](https://weathereact.vercel.app)
+👉 [Live Demo - ReactWeather](https://weathereact.vercel.app)
 
-![Weather React App Screenshot](https://via.placeholder.com/800x400?text=Weather+React+App+Screenshot)
+![Weather React App Screenshot](https://private-user-images.githubusercontent.com/70818222/429057187-8861df43-3b4a-45c8-87d4-581792150d78.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1MTU3NTUsIm5iZiI6MTc0MzUxNTQ1NSwicGF0aCI6Ii83MDgxODIyMi80MjkwNTcxODctODg2MWRmNDMtM2I0YS00NWM4LTg3ZDQtNTgxNzkyMTUwZDc4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDEzNTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzOTM1ZTJiN2IzMDYyODZhNzZhNTIwZGUwYzUyNjE1MDYwMTVjYjIzZTU5YzM2YmI5Y2NiZjdhOTE2NTRjN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Zlhb4_kPIZtEtOjZ7GEkl8VAzEyEgWp0EToBEaAEJg0)
 
 ## 🚀 Features
 
